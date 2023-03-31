@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js" => "16802618767124",]; ?>
